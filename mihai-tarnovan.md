@@ -2,36 +2,36 @@
 
 Web Developer
 
-[mihai.tarnovan@cubus.ro](mailto:mihai.tarnovan@cubus.ro)
-
+[mihai.tarnovan@gmail.com](mailto:mihai.tarnovan@gmail.com)
 [twitter.com/mtarnovan](https://twitter.com/mtarnovan)
-
 [github.com/mtarnovan](https://github.com/mtarnovan)
 
 
 ### Education
 
-#### 2000-2006 Technical University of Cluj Napoca, B.D., Computer Science (English curriculum)
-#### 1999-2000 Babes-Bolyai University of Cluj Napoca, Journalism (German curriculum)
-#### 1994-1998 Brukenthal High School Sibiu, Mathematics-Physics (German curriculum)
+* 1999-2005 Technical University of Cluj Napoca, B.D., Computer Science (English curriculum)
+* 1998-1999 Babes-Bolyai University of Cluj Napoca, Journalism (German curriculum)
+* 1994-1998 Brukenthal High School Sibiu, Mathematics-Physics (German curriculum)
 
 ### Languages
 
-English (near-native), German (near-native), Romanian (native)
+* English (near-native)
+* German (near-native)
+* Romanian (native)
 
 ### Experience
 
-Eclectic knowledge of web development across the stack, with emphasis on the backend. Strong focus on Ruby (8+ years)
+Developer with entrepreneurial experience and Eclectic knowledge of web development across the stack, with emphasis on the backend. Strong focus on Ruby (8+ years).
 
-Languages and technologies: C, PHP, Java, Ruby (Rails, Sinatra, Rspec, Capistrano, Sidekiq etc), Javascript (Coffeescript, React), HTML/CSS/HAML/SCSS, MySQL, Postgres, ElasticSearch, Redis, Memcached, Linux/FreeBSD, AWS (EC2, Opsworks, SQS, S3, Cloudfront, Heroku), & many more
+Languages and technologies: C, PHP, Java, Ruby (Rails, Sinatra, Rspec, Capistrano, Sidekiq etc), Javascript (Coffeescript, React), Elixir, HTML/CSS/HAML/SCSS, MySQL, Postgres, ElasticSearch, Redis, Memcached, Linux/FreeBSD, AWS (EC2, Opsworks, SQS, S3, Cloudfront, Heroku), Terraform & many more
 
 ### Interests
 
-Currently looking to improve my frontend skills, especially around the React ecosystem (Flux, Redux, ES6 etc), and to dive deeper into functional programming on the backend (Scala, Elixir)
+Currently looking to dive deeper into functional programming on the backend (Elixir, Scala) and to improve my frontend skills, especially around the React ecosystem.
 
 ### Selected client work
 
-#### Project: aeon.co Online Publishing Platform (2014-2015)
+#### Project: aeon.co Online Publishing Platform (UK/Australia) (2014-2015)
 
   * Worked remotely as Senior developer on a small but agile team to create a social network around discussing ideas (Aeon Ideas) and a publishing platform to replace the legacy Wordpress behind Aeon Magazine, merging these together for the relaunched [aeon.co](https://aeon.co)
   * Backend: Rails, Rspec, Capybara, AWS (S3, Opsworks), Postgresql, Sidekiq, Github, Codeship (CI), NewRelic, Keen.io (custom analytics)
@@ -69,22 +69,27 @@ Currently looking to improve my frontend skills, especially around the React eco
 
 #### Project: Text extraction tools (2000-2004)
 
-  * Implemented text extraction tools for an information retrieval system for a multitude of formats (PDF, Microsoft Office, OpenOffice, Autocad and many others).
+  * Implemented complex text extraction tools for an information retrieval system for a multitude of formats (PDF, Microsoft Office, OpenOffice, Autocad and many others).
   * C (cross-platform Windows/Linux)
 
 ### Co-founded projects
 
-#### Project: factureaza.ro Invoicing SaaS (2007-present)
+#### Project: openapi.ro (2009-present)
+
+  * Co-founder, developer
+  * Rails, Postgresql, Sidekiq, Github, Elixir, Phoenix, AWS, Scaleway, Terraform, Docker
+  * APIs targeting Romanian developers, compiling multiple non-structured data sources into a single developer-friendly API: company information, financial data etc.
+
+#### Project: factureaza.ro Invoicing SaaS (2007-2016)
 
   * Co-founder, developer
   * Invoicing SaaS for the Romanian market
   * Many features: API, time tracking, document merging, automatic recurrent billing
   * 10.000+ signed up users (freemium model)
   * Many iterations, first implementation started before release of Rails 1.0
-  * Currently migrating to Rails 4, responsive frontend
   * Rails, MySQL, FreeBSD
 
-#### Project: flipster.ro Fashion swap startup (2013-present)
+#### Project: flipster.ro Fashion swap startup (2013-2015)
 
   * Co-founder, developer
   * Rails, Websockets, Postgresql, Sidekiq, Zurb Foundation (fully responsive frontend), ActiveAdmin, Facebook integration, AWS (S3), keen.io, automated delivery process (API integration with courier service)
@@ -92,14 +97,9 @@ Currently looking to improve my frontend skills, especially around the React eco
   * Fully responsive frontend UI to smartphones, tablets and desktop
   * Automated integration with delivery services
 
-#### Project: Travelbox.ro Booking management SaaS (2008-2009)
+#### Project: travelbox.ro Booking management SaaS (2008-2009)
 
   * Co-founder, developer
   * Flexible booking management for boarding houses, hostels and hotels
   * Embeddable booking widget
   * Rails, MySQL
-
-#### Project: OpenAPI.ro (2009-present)
-
-  * A set of free APIs for the Romanian market
-  * Sinatra, Datamapper, MySQL
